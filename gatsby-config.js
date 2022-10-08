@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Richard`,
     siteTitleAlt: `Richard - Cloud Architect`,
     siteHeadline: `Richard - Cloud Architect`,
-    siteUrl: `Richard - Cloud Architect`,
+    siteUrl: `https://richardshepard.gatsbyjs.io/`,
     siteDescription: `Richard - Cloud Architect`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
